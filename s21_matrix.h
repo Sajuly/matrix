@@ -1,4 +1,3 @@
-
 #ifndef SRC_S21_MATRIX_H_
 #define SRC_S21_MATRIX_H_
 
